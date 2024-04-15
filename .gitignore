@@ -4,6 +4,7 @@ __pycache__/
 
 # Distribution / packaging
 env/
+data/
 
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
