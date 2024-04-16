@@ -1,0 +1,122 @@
+Files already downloaded and verified
+Files already downloaded and verified
+{"CNN": "type", "DataLoader": "type", "NeuralNetwork": "type", "X": "Tensor", "load_data": "function", "nn": "module", "np": "module", "plt": "module", "predict": "function", "sys": "module", "test": "function", "test_data": "CIFAR10", "test_loader": "DataLoader", "torch": "module", "train": "function", "train_data": "CIFAR10", "train_loader": "DataLoader", "wandb": "module", "y": "int"}
+{"shape": "(3, 32, 32)", "count": 3, "type": "Tensor"}
+{"CNN": "type", "DataLoader": "type", "NeuralNetwork": "type", "NeuralNetworkMoreLayers": "type", "X": "Tensor", "load_data": "function", "nn": "module", "np": "module", "plt": "module", "predict": "function", "sys": "module", "test": "function", "test_data": "CIFAR10", "test_loader": "DataLoader", "torch": "module", "train": "function", "train_data": "CIFAR10", "train_loader": "DataLoader", "wandb": "module", "y": "int"}
+{"shape": "(3, 32, 32)", "count": 3, "type": "Tensor"}
+Эпоха номер 1
+
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:19<00:00, 40.54it/s]
+ 39%|███▉      | 62/157 [00:00<00:00, 102.42it/s]
+100%|██████████| 157/157 [00:01<00:00, 106.17it/s]
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:17<00:00, 44.97it/s]
+100%|██████████| 157/157 [00:01<00:00, 112.41it/s]
+  3%|▎         | 25/782 [00:00<00:16, 44.96it/s]
+
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:17<00:00, 45.04it/s]
+100%|██████████| 157/157 [00:01<00:00, 113.73it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:17<00:00, 45.39it/s]
+100%|██████████| 157/157 [00:01<00:00, 109.99it/s]
+  6%|▋         | 50/782 [00:01<00:16, 44.98it/s]
+
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:17<00:00, 45.18it/s]
+100%|██████████| 157/157 [00:01<00:00, 114.60it/s]
+  3%|▎         | 24/782 [00:00<00:17, 43.50it/s]
+
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:17<00:00, 44.82it/s]
+ 85%|████████▌ | 134/157 [00:01<00:00, 95.71it/s]
+100%|██████████| 157/157 [00:01<00:00, 102.01it/s]
+
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:17<00:00, 44.57it/s]
+100%|██████████| 157/157 [00:01<00:00, 111.37it/s]
+  3%|▎         | 25/782 [00:00<00:16, 44.83it/s]
+
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:17<00:00, 44.90it/s]
+ 91%|█████████ | 143/157 [00:01<00:00, 115.09it/s]
+100%|██████████| 157/157 [00:01<00:00, 113.89it/s]
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:17<00:00, 44.90it/s]
+ 46%|████▌     | 72/157 [00:00<00:00, 112.40it/s]
+100%|██████████| 157/157 [00:01<00:00, 114.76it/s]
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:17<00:00, 45.02it/s]
+
+100%|██████████| 157/157 [00:01<00:00, 111.73it/s]
+{"CNN": "type", "DataLoader": "type", "NeuralNetwork": "type", "NeuralNetworkMoreLayers": "type", "X": "Tensor", "accuracy": "float", "avg_loss": "float", "epoch": "int", "load_data": "function", "loss_function": "CrossEntropyLoss", "model": "NeuralNetworkMoreLayers", "nn": "module", "np": "module", "optimizer": "Adam", "plt": "module", "predict": "function", "sys": "module", "test": "function", "test_data": "CIFAR10", "test_loader": "DataLoader", "torch": "module", "train": "function", "train_data": "CIFAR10", "train_loader": "DataLoader", "wandb": "module", "y": "int"}
+{"shape": "(3, 32, 32)", "count": 3, "type": "Tensor"}
+{"CNN": "type", "DataLoader": "type", "NeuralNetwork": "type", "NeuralNetworkMoreLayers": "type", "X": "Tensor", "accuracy": "float", "avg_loss": "float", "epoch": "int", "load_data": "function", "loss_function": "CrossEntropyLoss", "model": "NeuralNetworkMoreLayers", "nn": "module", "np": "module", "optimizer": "Adam", "plt": "module", "predict": "function", "sys": "module", "test": "function", "test_data": "CIFAR10", "test_loader": "DataLoader", "torch": "module", "train": "function", "train_data": "CIFAR10", "train_loader": "DataLoader", "wandb": "module", "y": "int"}
+{"shape": "(3, 32, 32)", "count": 3, "type": "Tensor"}
+{"CNN": "type", "DataLoader": "type", "NeuralNetwork": "type", "NeuralNetworkMoreLayers": "type", "X": "Tensor", "accuracy": "float", "avg_loss": "float", "epoch": "int", "load_data": "function", "loss_function": "CrossEntropyLoss", "model": "NeuralNetworkMoreLayers", "nn": "module", "np": "module", "optimizer": "Adam", "plt": "module", "predict": "function", "sys": "module", "test": "function", "test_data": "CIFAR10", "test_loader": "DataLoader", "torch": "module", "train": "function", "train_data": "CIFAR10", "train_loader": "DataLoader", "wandb": "module", "y": "int"}
+{"CNN": "type", "DataLoader": "type", "NeuralNetwork": "type", "NeuralNetworkMoreLayers": "type", "X": "Tensor", "accuracy": "float", "avg_loss": "float", "epoch": "int", "load_data": "function", "loss_function": "CrossEntropyLoss", "model": "NeuralNetworkMoreLayers", "nn": "module", "np": "module", "optimizer": "Adam", "plt": "module", "predict": "function", "sys": "module", "test": "function", "test_data": "CIFAR10", "test_loader": "DataLoader", "torch": "module", "train": "function", "train_data": "CIFAR10", "train_loader": "DataLoader", "wandb": "module", "y": "int"}
+{"shape": "(3, 32, 32)", "count": 3, "type": "Tensor"}
+{"shape": "(3, 32, 32)", "count": 3, "type": "Tensor"}

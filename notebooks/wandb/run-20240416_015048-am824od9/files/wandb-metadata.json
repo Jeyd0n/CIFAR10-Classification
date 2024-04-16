@@ -1,0 +1,44 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.13",
+    "heartbeatAt": "2024-04-15T22:50:50.512775",
+    "startedAt": "2024-04-15T22:50:48.996758",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Jeyd0n/CIFAR10-Classification.git",
+        "commit": "1df5f9b5abaec8852d414b73fd9f121242e09416"
+    },
+    "email": "polukhin.vo@icloud.com",
+    "root": "/Users/vladimir/Desktop/CIFAR10-Classification",
+    "host": "MacBook-Air-Vladimir.local",
+    "username": "vladimir",
+    "executable": "/Users/vladimir/opt/anaconda3/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 285.05266189575195
+        }
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

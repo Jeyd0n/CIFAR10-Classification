@@ -1,0 +1,173 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Эпоха номер 1
+
+
+  9%|▉         | 72/782 [00:05<00:52, 13.45it/s]
+  0%|          | 2/782 [00:00<01:01, 12.77it/s]
+{"CNN": "type", "DataLoader": "type", "NeuralNetwork": "type", "X": "Tensor", "epoch": "int", "load_data": "function", "loss_function": "CrossEntropyLoss", "model": "CNN", "nn": "module", "np": "module", "optimizer": "Adam", "plt": "module", "predict": "function", "sys": "module", "test": "function", "test_data": "CIFAR10", "test_loader": "DataLoader", "torch": "module", "train": "function", "train_data": "CIFAR10", "train_loader": "DataLoader", "wandb": "module", "y": "int"}
+{"shape": "(3, 32, 32)", "count": 3, "type": "Tensor"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:55<00:00, 13.99it/s]
+
+100%|██████████| 157/157 [00:03<00:00, 40.14it/s]
+  2%|▏         | 14/782 [00:00<00:51, 15.02it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:57<00:00, 13.49it/s]
+
+100%|██████████| 157/157 [00:03<00:00, 39.90it/s]
+  2%|▏         | 16/782 [00:01<00:55, 13.75it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:58<00:00, 13.30it/s]
+
+100%|██████████| 157/157 [00:03<00:00, 39.30it/s]
+  1%|          | 6/782 [00:00<00:55, 14.10it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|██████████| 782/782 [00:59<00:00, 13.18it/s]
+
+100%|██████████| 157/157 [00:04<00:00, 35.61it/s]
+  1%|▏         | 10/782 [00:00<01:04, 11.97it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|██████████| 782/782 [01:04<00:00, 12.21it/s]
+
+
+100%|██████████| 157/157 [00:04<00:00, 34.86it/s]
+{"CNN": "type", "DataLoader": "type", "NeuralNetwork": "type", "X": "Tensor", "accuracy": "float", "avg_loss": "float", "epoch": "int", "load_data": "function", "loss_function": "CrossEntropyLoss", "model": "CNN", "nn": "module", "np": "module", "optimizer": "Adam", "plt": "module", "predict": "function", "sys": "module", "test": "function", "test_data": "CIFAR10", "test_loader": "DataLoader", "torch": "module", "train": "function", "train_data": "CIFAR10", "train_loader": "DataLoader", "wandb": "module", "y": "int"}

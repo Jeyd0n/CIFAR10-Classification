@@ -1,0 +1,93 @@
+
+{"CNN": "type", "DataLoader": "type", "NeuralNetwork": "type", "load_data": "function", "nn": "module", "np": "module", "plt": "module", "predict": "function", "sys": "module", "test": "function", "torch": "module", "train": "function", "wandb": "module"}
+Files already downloaded and verified
+Files already downloaded and verified
+{"CNN": "type", "DataLoader": "type", "NeuralNetwork": "type", "X": "Tensor", "load_data": "function", "nn": "module", "np": "module", "plt": "module", "predict": "function", "sys": "module", "test": "function", "test_data": "CIFAR10", "test_loader": "DataLoader", "torch": "module", "train": "function", "train_data": "CIFAR10", "train_loader": "DataLoader", "wandb": "module", "y": "int"}
+{"shape": "(3, 32, 32)", "count": 3, "type": "Tensor"}
+Эпоха номер 1
+
+
+
+
+100%|██████████| 782/782 [00:10<00:00, 71.80it/s]
+ 58%|█████▊    | 91/157 [00:00<00:00, 148.62it/s]
+100%|██████████| 157/157 [00:01<00:00, 147.30it/s]
+
+
+
+
+100%|██████████| 782/782 [00:10<00:00, 76.60it/s]
+100%|██████████| 157/157 [00:01<00:00, 149.51it/s]
+  4%|▍         | 35/782 [00:00<00:09, 79.34it/s]
+
+
+
+
+
+ 83%|████████▎ | 650/782 [00:08<00:01, 73.74it/s]
+{"CNN": "type", "DataLoader": "type", "NeuralNetwork": "type", "X": "Tensor", "accuracy": "float", "avg_loss": "float", "epoch": "int", "load_data": "function", "loss_function": "CrossEntropyLoss", "model": "NeuralNetwork", "nn": "module", "np": "module", "optimizer": "Adam", "plt": "module", "predict": "function", "sys": "module", "test": "function", "test_data": "CIFAR10", "test_loader": "DataLoader", "torch": "module", "train": "function", "train_data": "CIFAR10", "train_loader": "DataLoader", "wandb": "module", "y": "int"}
+{"shape": "(3, 32, 32)", "count": 3, "type": "Tensor"}
+Эпоха номер 1
+
+
+
+
+100%|██████████| 782/782 [00:10<00:00, 74.37it/s]
+100%|██████████| 157/157 [00:01<00:00, 145.51it/s]
+  1%|          | 8/782 [00:00<00:10, 74.13it/s]
+
+
+
+
+
+
+100%|██████████| 782/782 [00:13<00:00, 57.23it/s]
+ 49%|████▉     | 77/157 [00:00<00:00, 151.79it/s]
+100%|██████████| 157/157 [00:01<00:00, 153.92it/s]
+
+
+
+
+100%|██████████| 782/782 [00:11<00:00, 70.38it/s]
+100%|██████████| 157/157 [00:01<00:00, 144.33it/s]
+ 13%|█▎        | 104/782 [00:01<00:09, 74.95it/s]
+
+
+
+
+
+100%|██████████| 782/782 [00:11<00:00, 66.62it/s]
+100%|██████████| 157/157 [00:01<00:00, 143.63it/s]
+  4%|▍         | 35/782 [00:00<00:10, 68.97it/s]
+Эпоха номер 5
+{"CNN": "type", "DataLoader": "type", "NeuralNetwork": "type", "X": "Tensor", "accuracy": "float", "avg_loss": "float", "epoch": "int", "load_data": "function", "loss_function": "CrossEntropyLoss", "model": "NeuralNetwork", "nn": "module", "np": "module", "optimizer": "Adam", "plt": "module", "predict": "function", "sys": "module", "test": "function", "test_data": "CIFAR10", "test_loader": "DataLoader", "torch": "module", "train": "function", "train_data": "CIFAR10", "train_loader": "DataLoader", "wandb": "module", "y": "int"}
+{"shape": "(3, 32, 32)", "count": 3, "type": "Tensor"}
+Files already downloaded and verified
+wandb: ERROR Dropped streaming file chunk (see wandb/debug-internal.log)
+Files already downloaded and verified
+{"CNN": "type", "DataLoader": "type", "NeuralNetwork": "type", "X": "Tensor", "accuracy": "float", "avg_loss": "float", "epoch": "int", "load_data": "function", "loss_function": "CrossEntropyLoss", "model": "NeuralNetwork", "nn": "module", "np": "module", "optimizer": "Adam", "plt": "module", "predict": "function", "sys": "module", "test": "function", "test_data": "CIFAR10", "test_loader": "DataLoader", "torch": "module", "train": "function", "train_data": "CIFAR10", "train_loader": "DataLoader", "wandb": "module", "y": "int"}
+{"shape": "(3, 32, 32)", "count": 3, "type": "Tensor"}
+Эпоха номер 1
+
+
+
+
+ 87%|████████▋ | 679/782 [00:10<00:01, 56.63it/s]wandb: ERROR Dropped streaming file chunk (see wandb/debug-internal.log)
+100%|██████████| 782/782 [00:11<00:00, 66.02it/s]
+100%|██████████| 157/157 [00:01<00:00, 145.18it/s]
+  8%|▊         | 64/782 [00:00<00:10, 69.66it/s]
+
+
+
+ 72%|███████▏  | 560/782 [00:07<00:02, 78.76it/s]wandb: ERROR Dropped streaming file chunk (see wandb/debug-internal.log)
+100%|██████████| 782/782 [00:10<00:00, 75.10it/s]
+100%|██████████| 157/157 [00:01<00:00, 119.92it/s]
+ 11%|█         | 87/782 [00:01<00:09, 74.30it/s]
+
+
+ 55%|█████▍    | 427/782 [00:05<00:04, 74.12it/s]wandb: ERROR Dropped streaming file chunk (see wandb/debug-internal.log)
+ 57%|█████▋    | 443/782 [00:05<00:04, 74.08it/s]wandb: ERROR Dropped streaming file chunk (see wandb/debug-internal.log)
+
+100%|██████████| 782/782 [00:10<00:00, 75.51it/s]
+ 90%|█████████ | 142/157 [00:00<00:00, 148.71it/s]
+100%|██████████| 157/157 [00:01<00:00, 149.39it/s]
